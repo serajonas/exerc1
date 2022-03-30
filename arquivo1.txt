@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 
 Danilo de Souza Miguel
+=======
+Danilo de Souza Miguel
+
+>>>>>>> 86c1f2efb53e0520c531f1ce5c33c98dedb5210b
