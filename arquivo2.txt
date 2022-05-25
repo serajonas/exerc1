@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+Leciane Alves
+=======
 Danilo de Souza Miguel
 Samsung Ocean
 25/05/22
+>>>>>>> 974c9f46ca4c46862778946aefc7e097be3f2c16
